@@ -1,0 +1,2 @@
+INSERT INTO integrantes (nombre, apellido, email, edad, fecha_creacion) VALUES ('Jonathan', 'Vélez', 'mrvelez13@gmail.com', 29, '2019-04-05');
+INSERT INTO integrantes (nombre, apellido, email, edad, fecha_creacion) VALUES ('Otra', 'Persona', 'otroCorreo@gmail.com', 15, '2019-04-05');
